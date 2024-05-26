@@ -1,0 +1,19 @@
+.header-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dream {
+    color: #7E90FE;
+}
+
+.header-img img {
+    width: 700px;
+    height: 550px;
+    flex-shrink: 0;
+}
+
+.header-info {
+    padding-left: 280px;
+}

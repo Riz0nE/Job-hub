@@ -1,0 +1,10 @@
+.job-container img {
+    width: 116.686px;
+    height: 40px;
+}
+
+.job-container {
+    justify-content: center;
+    align-items: center;
+
+}

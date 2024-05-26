@@ -1,0 +1,36 @@
+.header-container :link {
+    margin-right: 15px;
+    color: var(--Dark-03, #757575);
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.header h1 {
+    color: var(--Dark-01, #1A1919);
+
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.btn-start {
+    border-radius: 8px;
+    background: var(--Linear, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%));
+    display: inline-flex;
+    padding: 10px 15px;
+    align-items: flex-start;
+    gap: 10px;
+    color: white;
+}
